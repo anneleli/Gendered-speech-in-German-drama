@@ -1,4 +1,4 @@
-# Welcome to my project "Gendered Speech Patterns in German Drama: A TEI-Based Graph Analysis"
+# "Gendered Speech Patterns in German Drama: A TEI-Based Graph Analysis"
 
 ## Project goal: 
 Investigate speech distribution among female and male speakers in order to visualize and explore patterns of speech, dominance, and character relationships across texts
