@@ -15,7 +15,7 @@ Investigate speech distribution among female and male speakers in order to visua
 - Corpus_cleaned: namespace-free TEI files
 - speaker_summary_split.csv: CSV with speaker data
 - Project_Gendered_Speech_Queries.cql: queries that were used during access phase
-- rule_based_styling_Neo4j: style settings for graph database
+- rule_based_styling_Neo4j: style settings for each MaleCharacter and FemaleCharacter node
 
 ## Technologies Used
 - Python (`lxml`, `pandas`)
